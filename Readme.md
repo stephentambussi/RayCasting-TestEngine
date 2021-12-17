@@ -6,3 +6,5 @@ and the Raylib library.
 With this engine I will try to make a simple rpg.
 
 ![raycasting](assets/raycasting.gif)
+
+Changes:
